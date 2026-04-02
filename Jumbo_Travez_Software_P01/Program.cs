@@ -2,20 +2,21 @@
 
 internal class Program
 {
-        public class Appointment
+    public class Appointment
     {
         public Guid Id { get; private set; }
         public Guid PatientId { get; private set; }
         public Guid DentistId { get; private set; }
         public AppointmentStatus Status { get; private set; }
-        public void Cancel(Appointment appointment)
+        public Appointment(Guid _patientId, Guid _DentistId)
         {
-            if (appointment.Status == AppointmentStatus.Completed)
+            if (_patientId == Guid.Empty)
             {
-                throw new Exception("No se puede cancelar");
+                throw new BussinessRuleException("El paciente es requerido");
             }
-            appointment.Status = AppointmentStatus.Cancelled;
+             if () { }
+    }
+            
         }
     }
-}
-}
+
