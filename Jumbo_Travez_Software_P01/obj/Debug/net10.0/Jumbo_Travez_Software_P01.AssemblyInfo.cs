@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Jumbo_Travez_Software_P01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+829249d106fa69f7945093e490e8debb03097fa4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Jumbo_Travez_Software_P01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Jumbo_Travez_Software_P01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

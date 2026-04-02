@@ -31,8 +31,9 @@ internal class Program
             {
                 throw new BussinessRuleException("No se puede cancelar una cita programda");
             }
-            
-            Status = Appoitment.Cancelled
+
+            Status = AppoitmentStatus.Cancelled;
+            }
         }
             
     }
