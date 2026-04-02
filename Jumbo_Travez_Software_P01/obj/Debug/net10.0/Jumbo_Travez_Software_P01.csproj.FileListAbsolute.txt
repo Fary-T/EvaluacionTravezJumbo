@@ -1,0 +1,14 @@
+D:\Proyectos\ProyectosPatrones\Jumbo_Travez_Software_P01\Jumbo_Travez_Software_P01\bin\Debug\net10.0\Jumbo_Travez_Software_P01.exe
+D:\Proyectos\ProyectosPatrones\Jumbo_Travez_Software_P01\Jumbo_Travez_Software_P01\bin\Debug\net10.0\Jumbo_Travez_Software_P01.deps.json
+D:\Proyectos\ProyectosPatrones\Jumbo_Travez_Software_P01\Jumbo_Travez_Software_P01\bin\Debug\net10.0\Jumbo_Travez_Software_P01.runtimeconfig.json
+D:\Proyectos\ProyectosPatrones\Jumbo_Travez_Software_P01\Jumbo_Travez_Software_P01\bin\Debug\net10.0\Jumbo_Travez_Software_P01.dll
+D:\Proyectos\ProyectosPatrones\Jumbo_Travez_Software_P01\Jumbo_Travez_Software_P01\bin\Debug\net10.0\Jumbo_Travez_Software_P01.pdb
+D:\Proyectos\ProyectosPatrones\Jumbo_Travez_Software_P01\Jumbo_Travez_Software_P01\obj\Debug\net10.0\Jumbo_Travez_Software_P01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\ProyectosPatrones\Jumbo_Travez_Software_P01\Jumbo_Travez_Software_P01\obj\Debug\net10.0\Jumbo_Travez_Software_P01.AssemblyInfoInputs.cache
+D:\Proyectos\ProyectosPatrones\Jumbo_Travez_Software_P01\Jumbo_Travez_Software_P01\obj\Debug\net10.0\Jumbo_Travez_Software_P01.AssemblyInfo.cs
+D:\Proyectos\ProyectosPatrones\Jumbo_Travez_Software_P01\Jumbo_Travez_Software_P01\obj\Debug\net10.0\Jumbo_Travez_Software_P01.csproj.CoreCompileInputs.cache
+D:\Proyectos\ProyectosPatrones\Jumbo_Travez_Software_P01\Jumbo_Travez_Software_P01\obj\Debug\net10.0\Jumbo_Travez_Software_P01.dll
+D:\Proyectos\ProyectosPatrones\Jumbo_Travez_Software_P01\Jumbo_Travez_Software_P01\obj\Debug\net10.0\refint\Jumbo_Travez_Software_P01.dll
+D:\Proyectos\ProyectosPatrones\Jumbo_Travez_Software_P01\Jumbo_Travez_Software_P01\obj\Debug\net10.0\Jumbo_Travez_Software_P01.pdb
+D:\Proyectos\ProyectosPatrones\Jumbo_Travez_Software_P01\Jumbo_Travez_Software_P01\obj\Debug\net10.0\Jumbo_Travez_Software_P01.genruntimeconfig.cache
+D:\Proyectos\ProyectosPatrones\Jumbo_Travez_Software_P01\Jumbo_Travez_Software_P01\obj\Debug\net10.0\ref\Jumbo_Travez_Software_P01.dll
